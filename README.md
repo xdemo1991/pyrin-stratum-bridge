@@ -16,8 +16,6 @@ Huge shoutout to https://github.com/KaffinPX/KStratum for the inspiration
   
 Tips appreciated: `pyrin:qrnzhvvvsu8tec38exvmjamrgs4pnrzkdmdlv8htfq9ur3gnpd8fv4ghns73p`
 
-Try my 0-fee [Kaspa Pool](http://ghost-pool.io/) built with this code!
-
 
 ## Hive Setup
 [detailed instructions here](hive-setup.md) 
