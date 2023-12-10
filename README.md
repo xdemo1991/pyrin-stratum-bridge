@@ -10,8 +10,6 @@ This daemon is confirmed working with the miners below in both dual-mining and k
 
 No fee, forever. Do what you want with it.
 
-Discord discussions/issues: [here](https://discord.com/channels/599153230659846165/1025501807570600027) 
-
 Huge shoutout to https://github.com/KaffinPX/KStratum for the inspiration
   
 Tips appreciated: `pyrin:qrnzhvvvsu8tec38exvmjamrgs4pnrzkdmdlv8htfq9ur3gnpd8fv4ghns73p`
