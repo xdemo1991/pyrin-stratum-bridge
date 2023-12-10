@@ -14,7 +14,7 @@ Discord discussions/issues: [here](https://discord.com/channels/5991532306598461
 
 Huge shoutout to https://github.com/KaffinPX/KStratum for the inspiration
   
-Tips appreciated: `pyrin:qp9v6090sr8jjlkq7r3f4h9un5rtfhu3raknfg3cca9eapzee57jzew0kxwlp`
+Tips appreciated: `pyrin:qrnzhvvvsu8tec38exvmjamrgs4pnrzkdmdlv8htfq9ur3gnpd8fv4ghns73p`
 
 Try my 0-fee [Kaspa Pool](http://ghost-pool.io/) built with this code!
 
